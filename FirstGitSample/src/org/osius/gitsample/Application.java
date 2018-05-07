@@ -14,6 +14,7 @@ public class Application {
 	public static void displayGreetings() {
 		System.out.println("1. Greetings From GitHub");
 		System.out.println("2. Greetings From Git Lab");
+		System.out.println("Greeting 1");
 	}
 
 }
